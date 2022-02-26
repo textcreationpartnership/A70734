@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Occasional doctor his examination before a committee of Whigg-priests.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70734</idno>
+            <idno type="STC">Wing O123R</idno>
+            <idno type="STC">ESTC R22382</idno>
+            <idno type="EEBO-CITATION">09570939</idno>
+            <idno type="OCLC">ocm 09570939</idno>
+            <idno type="VID">43684</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70734)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43684)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 770:14 or 1336:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Occasional doctor his examination before a committee of Whigg-priests.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Banks,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Satire against non-conformist clergy of the Church of England.</note>
+                  <note>This item appears at reel 770:14 incorrectly identified as Wing O121, and at reel 1336:33 as Wing (2nd ed.) O123R.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Anecdotes</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:43684:1" rendition="simple:additions"/>
+            <head>The Occaſional Doctor HIS EXAMINATION BEFORE A Committee of Whigg-Prieſts.</head>
+            <p>THE Ninth day of the Ninth Month; a Welch Curate, or a Son of the Church of <hi>England,</hi> that goeth in Welch-frize and a ruſſet Cloak, yoleped the <hi>Occaſional Doctor,</hi> a Soul-ſaving-ſearching-awakening Uſurer, Broker, Briber, and Monopoliſt of Livings and Lectures, a Servant of Servants in the work of the Goſpel, holding forth at the Meeting-place in the Wall, and Paſtor of a Church there, was called before the Reverend the Committee of ejected Miniſters, where the Chair-man told him of ſeveral <hi>miſdemeanours,</hi> whereby he was a <hi>ſcandal</hi> to their Cauſe: Particularly, that under pretence of the promiſe made to them to reſerve his Pulpit for any well-affected Brethren not conforming, who would take pains to confirm the Diſciples, and to eſtabliſh them in the faith, he had admitted Fifth-monarchy men, Anabaptiſts, and others to his Pulpit, to the great diſparagement of the holy Cauſe, which may be thought to countenance thoſe Factions and ways, Whereunto the Anabaptiſt-Independant-Presbyterian Son of the Church replyed; <hi>That</hi> 1. <hi>he deſired to become all things to all men.</hi> 2. <hi>That though the Brethren of the Baptized way differed from us in ſome points, yet they heartily agree in the main,</hi> VIZ. <hi>zealous oppoſition of the tyranny, ſuperſtition, and prophaneſs of theſe times, which he underſtood to be the preſent Intereſt.</hi> 3. <hi>That becauſe no body would hear him before theſe times, he muſt now pleaſe every body to gain a Congregation.</hi> The Chairman urged againſt him further, that he being appointed to look out all opportunities of employment, and ſo bring in his deſtituted Brethren to his Church, allowing them what he gained abroad, only reſerving two ſhillings in ten for his own pains, he ſnatched up all that was to be got in Town, and employed his Brethren, but allowed them little or nothing. He replied, <hi>That he knew not how ſoon he ſhould be out of all, for the High Prieſt of</hi> London <hi>threat<g ref="char:EOLhyphen"/>ned him every day; and he deſired to be excuſed if he lay in ſomething againſt an evil day.</hi> Another of the Committee urged againſt him the Forty Pounds it coſt him in the Maids buſineſs, where he was caught in <hi>Shoreditch.</hi> To which he replied, <hi>That the Spirit was willing, but the fleſh was weak; his heart was right, he intended to propagate the Goſpel.</hi> When they told him he ſhould <hi>marry</hi> and not <hi>burn;</hi> he anſwered, <hi>I ſuppoſe that it is good for the preſent diſtreſs, I ſay, it is good ſo to do.</hi> After complaint of ſeveral miſdemeanours, the Doctor tells them, <hi>That if they did anger him any more he would be Epiſcopal, for</hi> ſaith he, <hi>I was an Anabaptiſt, and they being too buſie with me, I turned Independent; the Independent troubled me in</hi> Wales, <hi>I came to</hi> London, <hi>and was a Presbyterian, and if you will not let me alone I will even turn, and be a Son of the Church.</hi> Whereupon another of the Committee adviſed, <hi>That they ſhould not narrow their Intereſt,</hi> nor offend the Brethren, adding, that the Doctor was the moſt thorow pac'd Nonconfor<g ref="char:EOLhyphen"/>miſt in Town. After which Mr. <hi>Occaſional</hi> made the following ſpeech: <hi>I ſhall in my vindication offer you ſeveral things, which I do for the propagation of the good Old Cauſe, and then leave you to judge whether I deſerve your Reproof or Commendation.</hi>
+            </p>
+            <pb facs="tcp:43684:2"/>
+            <p n="1">1. I read little or no Common-prayer.</p>
+            <p n="2">2. I do not uſe the Surplice.</p>
+            <p n="3">3. I Preach Mr. <hi>Jenkins,</hi> Mr. <hi>Watſon,</hi> Mr. <hi>Gurnal,</hi> Mr. <hi>Manton,</hi> and others Works, ſo that while I Preach they are not ſilenced.</p>
+            <p n="4">4. I am in the Morning at a Church, and in the Afternoon at a Meeting.</p>
+            <p n="5">5. At a Lecture I pray an hour, and Preach two hours, wherein I hint many things effectually for the good Old Cauſe.</p>
+            <p n="6">6. Where I do one Office at Church according to the Common-prayer, I do five at home by the Directory, eſpecially in viſiting the ſick, and Baptizing the faithful Children.</p>
+            <p n="7">7. Upon the 30. <hi>January</hi> and 29. <hi>May</hi> I hold a private Faſt, and have no Sermon at Church, unleſs it be a Sermon at night for preparation to the Sacra<g ref="char:EOLhyphen"/>ment, or ſo, for I obſerve that cuſtom ſtill.</p>
+            <p n="8">8. I watch every vacancy in Town by ſickneſs, abſence, and I bring in either my ſelf, or ſome well-affected brother to that place, whereby, as the Scripture ſaith, we take no ſmall advantage.</p>
+            <p n="9">9. I keep two Regiſters, one for children baptized according to the Directory, which I have at home, and the other for Children Baptized according to the Common-prayer that I have at Church; one for people I marry without licence, whereof I have married many of our dear Brethren and Siſters, the other for one or two in a year I marry with a licence, which licence I keep to ſhew for any body that is married.</p>
+            <p n="10">10 I bring in all the Intelligence that is ſtirring among the Epiſcopal Divines, as they call them, who take me for one of themſelves, and accordingly admit me to their Lectures and Meetings.</p>
+            <p n="11">11. I have a convenient Chamber for private Meetings and affairs at <hi>Sion</hi>-Colledge, where I can do no little ſervice.</p>
+            <p n="12">12. I receive to my Church all ſuch tender Conſciences as cannot keep their own Churches, being enjoyned reverence and order, and decency, as they call it; and I let them do what they will, for I tell them, if the heart be right all is well; if they will keep on their hats they may, if they will receive the Communion ſitting they may, which is a great eaſe to good men.</p>
+            <p n="13">13. Whereas there is nothing but Bitterneſs abroad, and railing and reflecting upon the late times, I offer now and then a word of comfort in that particular, intimating the good of the late Cauſe, the holineſs of the people engaged in it, with a word of being faithful to the Covenant.</p>
+            <p>Upon this the Committee diſmiſſed him with thanks, and wiſhed him to walk circumſpectly, and be wiſe as a Serpent.</p>
+         </div>
+         <closer>God ſave the King.</closer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>A. Banks.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
